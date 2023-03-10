@@ -1,0 +1,37 @@
+#pokedex {
+    width: 25%;
+}
+body {
+    background-image: url(img/kanto-map.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+.texto-on {
+    background-color: rgba(34, 34, 34, 0.7);
+    margin-top: 10px;
+    color: white;
+    font-size: 35px;
+    border-radius: 12px;
+    padding: 0.1px;
+    padding-top: 15px;
+    font-weight: bold;
+    text-align: center;
+    width: 325px;
+    height: 55px;
+    margin: 10px auto 0;
+    font-family: 'Press Start 2P', cursive;
+}
+li {
+    margin-left: 20px;
+    color: black;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

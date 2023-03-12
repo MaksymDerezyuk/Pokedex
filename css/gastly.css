@@ -1,11 +1,11 @@
 body {
     /*Esto es para estarblecer un color de fondo*/
-    background-color: bisque;
+    background-color: #daaafa
 }
-#thyplosion {
+#gastly {
     width: 22%;
 }
-.texto-on-thy {
+.texto-on-ga {
     /*Esto es para el encabezado de la pagina*/
     margin-top: 10px;
     color: black;
@@ -25,18 +25,29 @@ p {
     font-family: 'Press Start 2P', cursive;
     font-size: 20px;
 }
-span {
+.fantasma {
     /*Esto es para estilizar el tipo de pokemon*/
-    background-color: orange;
+    background-color: purple;
     border-radius: 12px;
-    padding: 5px;
+    padding: 0.1px;
     text-align: center;
     width: 325px;
     height: 55px;
     margin: 10px auto 0;
     font-family: 'Press Start 2P', cursive;
 }
-.boton-thy {
+.veneno {
+    /*Esto es para estilizar el tipo de pokemon*/
+    background-color: #c78bf0;
+    border-radius: 12px;
+    padding: 0.1px;
+    text-align: center;
+    width: 325px;
+    height: 55px;
+    margin: 10px auto 0;
+    font-family: 'Press Start 2P', cursive;
+}
+.boton-ga {
     /*Esto es para estilizar el boton de volver al inicio*/
     background-color:red;
     margin-top: 10px;
@@ -67,7 +78,7 @@ a {
     font-family: 'Press Start 2P', cursive;
     font-size: 20px;
     text-decoration: none;
-    color: orange;
+    color: purple;
     background-color: black;
     padding: 5px;
     border-radius: 12px;

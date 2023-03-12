@@ -1,10 +1,12 @@
 body {
+    /*Esto es para estarblecer un color de fondo*/
     background-color: #a5fc9f
 }
 #rayquaza {
     width: 25%;
 }
 .texto-on-ray {
+    /*Esto es para el encabezado de la pagina*/
     margin-top: 10px;
     color: black;
     font-size: 35px;
@@ -19,10 +21,12 @@ body {
     font-family: 'Press Start 2P', cursive;
 }
 p {
+    /*Esto es para establecer una fuente y tamaño para todos los parrafos*/
     font-family: 'Press Start 2P', cursive;
     font-size: 20px;
 }
 .dragon {
+    /*Esto es para estilizar el tipo de pokemon*/
     background-color: #f77911;
     border-radius: 12px;
     padding: 0.1px;
@@ -33,6 +37,7 @@ p {
     font-family: 'Press Start 2P', cursive;
 }
 .volador {
+    /*Esto es para estilizar el tipo de pokemon*/
     background-color: grey;
     border-radius: 12px;
     padding: 0.1px;
@@ -43,6 +48,7 @@ p {
     font-family: 'Press Start 2P', cursive;
 }
 .boton-ray {
+    /*Esto es para estilizar el boton de volver al inicio*/
     background-color:red;
     margin-top: 10px;
     color: white;
@@ -59,9 +65,11 @@ p {
     text-decoration: none;
 }
 a:visited {
+    /*Esto es para que la pagina no nos salga subrayada cuando ya la hayamos visitado*/
     color: white;
     text-decoration: none;
 }
 a {
+    /*Esto es para quitar el subrayado de pagina*/
     text-decoration: none;
 }

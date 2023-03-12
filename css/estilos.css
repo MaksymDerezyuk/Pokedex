@@ -2,6 +2,7 @@
     width: 25%;
 }
 body {
+    /*Esto es para establecer una imagen de fondo y una fuente*/
     background-image: url(img/kanto-map.jpeg);
     background-size: cover;
     background-position: center;
@@ -12,6 +13,7 @@ body {
     color: white;
 }
 .texto-on {
+    /*Esto es el texto del encabezado*/
     background-color: rgba(34, 34, 34, 0.7);
     margin-top: 10px;
     color: white;
@@ -27,11 +29,13 @@ body {
     font-family: 'Press Start 2P', cursive;
 }
 li {
+    /*Esto es para hacer que los puntitos de la lista sean negros*/
     margin-left: 20px;
     color: black;
 }
 
 a {
+    /*Esto es para establecer el color blanco a la lista*/
     color: white;
     text-decoration: none;
 }

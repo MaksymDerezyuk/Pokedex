@@ -1,10 +1,10 @@
 body {
-    background-color: bisque;
+    background-color: pink
 }
-#cyndaquil {
+#mew {
     width: 25%;
 }
-.texto-on-cy {
+.texto-on-mew {
     margin-top: 10px;
     color: black;
     font-size: 35px;
@@ -23,16 +23,16 @@ p {
     font-size: 20px;
 }
 span {
-    background-color: orange;
+    background-color: palevioletred;
     border-radius: 12px;
-    padding: 5px;
+    padding: 0.1px;
     text-align: center;
     width: 325px;
     height: 55px;
     margin: 10px auto 0;
     font-family: 'Press Start 2P', cursive;
 }
-.boton-cy {
+.boton-mew {
     background-color:red;
     margin-top: 10px;
     color: white;
@@ -54,13 +54,4 @@ a:visited {
 }
 a {
     text-decoration: none;
-}
-#evolucion {
-    font-family: 'Press Start 2P', cursive;
-    font-size: 20px;
-    text-decoration: none;
-    color: orange;
-    background-color: black;
-    padding: 5px;
-    border-radius: 12px;
 }

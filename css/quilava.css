@@ -1,10 +1,10 @@
 body {
     background-color: bisque;
 }
-#cyndaquil {
+#quilava {
     width: 25%;
 }
-.texto-on-cy {
+.texto-on-qui {
     margin-top: 10px;
     color: black;
     font-size: 35px;
@@ -32,7 +32,7 @@ span {
     margin: 10px auto 0;
     font-family: 'Press Start 2P', cursive;
 }
-.boton-cy {
+.boton-qui {
     background-color:red;
     margin-top: 10px;
     color: white;

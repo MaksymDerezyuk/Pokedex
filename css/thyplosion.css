@@ -1,10 +1,10 @@
 body {
     background-color: bisque;
 }
-#cyndaquil {
+#thyplosion {
     width: 25%;
 }
-.texto-on-cy {
+.texto-on-thy {
     margin-top: 10px;
     color: black;
     font-size: 35px;
@@ -32,7 +32,7 @@ span {
     margin: 10px auto 0;
     font-family: 'Press Start 2P', cursive;
 }
-.boton-cy {
+.boton-thy {
     background-color:red;
     margin-top: 10px;
     color: white;
@@ -54,13 +54,4 @@ a:visited {
 }
 a {
     text-decoration: none;
-}
-#evolucion {
-    font-family: 'Press Start 2P', cursive;
-    font-size: 20px;
-    text-decoration: none;
-    color: orange;
-    background-color: black;
-    padding: 5px;
-    border-radius: 12px;
 }
